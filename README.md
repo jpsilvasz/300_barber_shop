@@ -1,7 +1,8 @@
 # 300_barber_shop
 
-##ATENÇÃO
- ```Garantir que o servidor está rodando na porta 127.0.0.1:8000
+## ATENÇÃO
+ ```
+ Garantir que o servidor está rodando na porta 127.0.0.1:8000
  ```
 
 ## Project setup
